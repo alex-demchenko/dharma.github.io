@@ -1,13 +1,8 @@
-import Image from "next/image";
+import ExportedImage from "next-image-export-optimizer";
 import horizontalLine from "../assets/horizontal-line.png";
 
 export function HorizontalLine() {
   return (
-    <Image
-      src={horizontalLine}
-      alt="horizontal line"
-      quality={100}
-      width={400}
-    />
+    <ExportedImage src={horizontalLine} alt="horizontal line" width={400} />
   );
 }
