@@ -2,5 +2,5 @@
 2:I[22016,["/_next/static/chunks/5e4e88cf9cbf7c65.js"],""]
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"F3u_tSH_i4-VXdwUQ1neJ","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","p",null,{"children":"Рекомедуемая последовательность изучения Буддизма:"}],["$","p",null,{"children":["$","$L2",null,{"href":"/ru/articles/varieties-of-buddhism","children":"Разновидности Буддизма"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"bH5hhKRnhwBfFJwbmCOAf","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","p",null,{"children":"Рекомедуемая последовательность изучения Буддизма:"}],["$","p",null,{"children":["$","$L2",null,{"href":"/ru/articles/varieties-of-buddhism","children":"Разновидности Буддизма"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
