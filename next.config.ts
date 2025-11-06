@@ -3,7 +3,7 @@ import type { NextConfig } from "next";
 import createMDX from "@next/mdx";
 
 const nextConfig: NextConfig = {
-  distDir: "build",
+  distDir: "docs",
   output: "export",
 
   // Configure `pageExtensions` to include markdown and MDX files
