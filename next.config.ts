@@ -5,7 +5,6 @@ import createMDX from "@next/mdx";
 const nextConfig: NextConfig = {
   distDir: "docs",
   output: "export",
-  basePath: "/dharma.github.io",
 
   // Configure `pageExtensions` to include markdown and MDX files
   pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
