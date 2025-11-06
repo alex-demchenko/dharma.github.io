@@ -30,26 +30,26 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased px-2`}
       >
         {/* Page layout to stick footer to the bottom of the page */}
         <div className="min-h-[100dvh] flex flex-col justify-between">
           {/* Up part */}
           <div>
-            <header className="mx-auto mb-6 px-1 pt-1 flex items-center gap-2 max-w-[800px]">
-              <DharmaWheel />
+            <header className="mx-auto mb-6 pt-1 max-w-[800px]">
+              <Link href="/" className="flex items-center gap-2 no-underline!">
+                <DharmaWheel />
 
-              <Link href="/" className="text-2xl no-underline!">
                 {/* Путь Пробуждающегося Ума */}
                 {/* Пробуждающийся Ум */}
-                Постижение Дхармы
+                <span className="text-2xl">Постижение Дхармы</span>
               </Link>
             </header>
             <div className="mb-10 flex justify-center">
               <HorizontalLine />
             </div>
 
-            <main className="mx-auto px-1 max-w-[800px]">{children}</main>
+            <main className="mx-auto max-w-[800px]">{children}</main>
           </div>
 
           {/* Footer part */}
