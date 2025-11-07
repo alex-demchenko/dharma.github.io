@@ -23,7 +23,7 @@ export function LanguageSelectorClient() {
     <Select.Root collection={collection} value={["ru"]}>
       {/* <Select.Label>Язык</Select.Label> */}
       <Select.Control>
-        <Select.Trigger className="flex items-center gap-2">
+        <Select.Trigger className="px-2 py-1 flex items-center gap-2 rounded-sm hover:bg-gray-200">
           <Select.ValueText />
           <Select.Indicator>
             <ChevronDownIcon />
