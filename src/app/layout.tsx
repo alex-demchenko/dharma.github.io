@@ -1,6 +1,7 @@
 import { DharmaWheel } from "@/components/DharmaWheel";
 import { HorizontalLine } from "@/components/HorizontalLine";
 import { LanguageSelectorClient } from "@/components/LanguageSelectorClient";
+import { ScrollText } from "lucide-react";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
@@ -37,13 +38,25 @@ export default function RootLayout({
         <div className="min-h-[100dvh] flex flex-col justify-between">
           {/* Up part */}
           <div>
-            <header className="mx-auto mb-6 pt-1 max-w-[800px]">
+            <header className="mx-auto mb-6 pt-1 flex justify-between items-center gap-2 max-w-[800px]">
               <Link href="/" className="flex items-center gap-2 no-underline!">
                 <DharmaWheel />
 
                 <span className="text-2xl">Постижение Дхармы</span>
-                {/* TODO слоган */}
+
+                {/* TODO слоган? */}
+                {/* <div>
+                  <div className="text-2xl">Постижение Дхармы</div>
+                  <div className="text-sm">
+                    Cовременный взгляд на буддийскую практику и осознанность
+                  </div>
+                </div> */}
               </Link>
+              <nav>
+                <Link href="/ru/glossary" className="flex items-center gap-2">
+                  <ScrollText /> Глоссарий
+                </Link>
+              </nav>
             </header>
             <div className="mb-10 flex justify-center">
               <HorizontalLine />
@@ -54,7 +67,7 @@ export default function RootLayout({
 
           {/* Footer part */}
           <div>
-            <div className="mt-20 flex justify-center">
+            <div className="mt-10 flex justify-center">
               <HorizontalLine />
             </div>
             <footer className="mx-auto flex flex-col justify-center items-center gap-2 max-w-[800px] h-[100px]">
