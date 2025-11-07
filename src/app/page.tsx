@@ -8,7 +8,7 @@ export default function Home() {
       <p>
         <Link
           href="/ru/articles/varieties-of-buddhism"
-          className="flex items-center gap-2"
+          className="inline-flex items-center gap-2"
         >
           <ScrollText /> Разновидности Буддизма
         </Link>
