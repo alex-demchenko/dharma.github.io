@@ -1,5 +1,6 @@
 import { DharmaWheel } from "@/components/DharmaWheel";
 import { HorizontalLine } from "@/components/HorizontalLine";
+import { LanguageSelectorClient } from "@/components/LanguageSelectorClient";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
@@ -40,9 +41,8 @@ export default function RootLayout({
               <Link href="/" className="flex items-center gap-2 no-underline!">
                 <DharmaWheel />
 
-                {/* Путь Пробуждающегося Ума */}
-                {/* Пробуждающийся Ум */}
                 <span className="text-2xl">Постижение Дхармы</span>
+                {/* TODO слоган */}
               </Link>
             </header>
             <div className="mb-10 flex justify-center">
@@ -57,8 +57,10 @@ export default function RootLayout({
             <div className="mt-20 flex justify-center">
               <HorizontalLine />
             </div>
-            <footer className="mx-auto flex justify-center items-center max-w-[800px] h-[100px]">
-              Made by Oleksandr Demchenko. Copyright (C) 2025
+            <footer className="mx-auto flex flex-col justify-center items-center gap-2 max-w-[800px] h-[100px]">
+              <LanguageSelectorClient />
+              <div>Made by Oleksandr Demchenko. Copyright (C) 2025</div>
+              {/* TODO link to github to propose changes, feedback, or suggestions, or even new articles ! */}
             </footer>
           </div>
         </div>
