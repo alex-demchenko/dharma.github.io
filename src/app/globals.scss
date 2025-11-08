@@ -57,3 +57,11 @@ a {
   @apply underline;
 }
 
+ol {
+  list-style: decimal;
+
+  li {
+    @apply ml-4;
+  }
+}
+
