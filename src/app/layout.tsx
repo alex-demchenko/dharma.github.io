@@ -71,7 +71,17 @@ export default function RootLayout({
               <HorizontalLine />
             </div>
             <footer className="mx-auto flex flex-col justify-center items-center gap-2 max-w-[800px] h-[100px]">
-              <LanguageSelectorClient />
+              <div className="flex items-center gap-20">
+                <LanguageSelectorClient />
+
+                <a
+                  href={`https://github.com/alex-demchenko/dharma.github.io`}
+                  rel={"nofollow"}
+                  target="_blank"
+                >
+                  Edit on Github
+                </a>
+              </div>
               <div>Made by Oleksandr Demchenko. Copyright (C) 2025</div>
               {/* TODO link to github to propose changes, feedback, or suggestions, or even new articles ! */}
             </footer>
