@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"l-Bri7j7DSIshbmkeQybT","rsc":["$","$1","c",{"children":[[["$","h1",null,{"children":"Путь Сутры и Путь Тантры"}],"\n",["$","p",null,{"children":"ТОДО проверить правописание\r\nТОДО введение"}],"\n",["$","h2",null,{"children":"Путь Сутры"}],"\n",["$","h2",null,{"children":"Путь Тантры"}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"IKseZmuUab8yrpIGLEs8k","rsc":["$","$1","c",{"children":[[["$","h1",null,{"children":"Путь Сутры и Путь Тантры"}],"\n",["$","p",null,{"children":"ТОДО проверить правописание\r\nТОДО введение"}],"\n",["$","h2",null,{"children":"Путь Сутры"}],"\n",["$","h2",null,{"children":"Путь Тантры"}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
