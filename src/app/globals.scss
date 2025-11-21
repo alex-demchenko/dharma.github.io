@@ -57,6 +57,14 @@ a {
   @apply underline;
 }
 
+ul {
+  list-style: disc;
+
+  li {
+    @apply ml-4;
+  }
+}
+
 ol {
   list-style: decimal;
 
