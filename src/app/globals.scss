@@ -58,6 +58,7 @@ a {
 }
 
 ul {
+  @apply mb-2;
   list-style: disc;
 
   li {
@@ -66,6 +67,7 @@ ul {
 }
 
 ol {
+  @apply mb-2;
   list-style: decimal;
 
   li {
