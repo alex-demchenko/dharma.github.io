@@ -20,6 +20,7 @@
     "next-image-export-optimizer": "1.19.0",
     "react": "19.2.1",
     "react-dom": "19.2.1",
+    "slugify": "^1.6.6",
     "tailwind-merge": "3.4.0"
   },
   "devDependencies": {
@@ -34,4 +35,3 @@
     "typescript": "5.9.3"
   }
 }
-
