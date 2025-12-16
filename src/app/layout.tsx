@@ -1,7 +1,6 @@
 import { DharmaWheel } from "@/components/DharmaWheel";
 import { HorizontalLine } from "@/components/HorizontalLine";
 import { LanguageSelectorClient } from "@/components/LanguageSelectorClient";
-import { ScrollText } from "lucide-react";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
@@ -53,9 +52,9 @@ export default function RootLayout({
                 </div> */}
               </Link>
               <nav>
-                <Link href="/ru/glossary" className="flex items-center gap-2">
+                {/* <Link href="/ru/glossary" className="flex items-center gap-2">
                   <ScrollText /> Глоссарий
-                </Link>
+                </Link> */}
               </nav>
             </header>
             <div className="mb-10 flex justify-center">
