@@ -78,7 +78,12 @@ table {
   }
 }
 
+blockquote {
+  @apply pl-4 border-l-2 border-orange-500;
+}
+
 .table-container {
   max-width: 100%;
   overflow-x: auto;
 }
+
