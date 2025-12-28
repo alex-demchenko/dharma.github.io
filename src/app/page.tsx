@@ -1,6 +1,10 @@
-import Content from "./content.mdx";
+import { readFileSync } from "node:fs";
 
 export default function Home() {
-  return <Content />;
+  const content = readFileSync(
+    "D:/Work/GitHub/dharma.github.io/src/app/content.html"
+  ).toString();
+
+  return <div dangerouslySetInnerHTML={{ __html: content }} />;
 }
 

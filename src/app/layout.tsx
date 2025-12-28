@@ -1,6 +1,5 @@
 import { DharmaWheel } from "@/components/DharmaWheel";
 import { HorizontalLine } from "@/components/HorizontalLine";
-import { LanguageSelectorClient } from "@/components/LanguageSelectorClient";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
@@ -18,8 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Insight Dharma",
-    template: "%s | Insight Dharma",
+    absolute: "Realization of the Dharma",
+    template: "%s | Realization of the Dharma",
   },
 };
 
@@ -29,7 +28,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ru">
+    <html lang="en">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased px-2`}
       >
@@ -41,7 +40,7 @@ export default function RootLayout({
               <Link href="/" className="flex items-center gap-2 no-underline!">
                 <DharmaWheel />
 
-                <span className="text-2xl">Постижение Дхармы</span>
+                <span className="text-2xl">Realization of the Dharma</span>
 
                 {/* TODO слоган? */}
                 {/* <div>
@@ -71,8 +70,6 @@ export default function RootLayout({
             </div>
             <footer className="mx-auto flex flex-col justify-center items-center gap-2 max-w-[800px] h-[100px]">
               <div className="flex items-center gap-20">
-                <LanguageSelectorClient />
-
                 <a
                   href={`https://github.com/alex-demchenko/dharma.github.io`}
                   rel={"nofollow"}
