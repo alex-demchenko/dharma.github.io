@@ -78,7 +78,10 @@ export default function RootLayout({
                   Edit on Github
                 </a>
               </div>
-              <div>Made by Oleksandr Demchenko. Copyright (C) 2025</div>
+              <div>
+                Made by Oleksandr Demchenko. Copyright (C){" "}
+                {new Date().getFullYear()}
+              </div>
               {/* TODO link to github to propose changes, feedback, or suggestions, or even new articles ! */}
             </footer>
           </div>
