@@ -40,7 +40,7 @@ export default function RootLayout({
               <Link href="/" className="flex items-center gap-2 no-underline!">
                 <DharmaWheel />
 
-                <span className="text-2xl">Realization of the Dharma</span>
+                <span className="text-2xl">Wheel of Dharma</span>
 
                 {/* TODO слоган? */}
                 {/* <div>
