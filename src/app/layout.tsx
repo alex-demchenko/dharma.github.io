@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Realization of the Dharma",
-    template: "%s | Realization of the Dharma",
+    absolute: "Wheel of Dharma",
+    template: "%s | Wheel of Dharma",
   },
 };
 
