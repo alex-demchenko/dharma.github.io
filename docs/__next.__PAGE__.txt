@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-2:T7f7,
+2:Ta0b,
 <h1>Buddhism</h1>
 <p>Buddhism is all traditions of transmission, understanding, practice of dharma.</p>
 <p>Informal practice, daily-life practice are synonyms.</p>
@@ -9,53 +9,72 @@
 
 <h2>1. Dharma</h2>
 <p>Dharma is teaching of liberation from dukkha.</p>
-<p>3 jewels are buddha, dharma, sangha.</p>
 <p>Abhidharma is the highest dharma.</p>
 
 
-<h3>1.1. Dukkha</h3>
+<h3>1.1. 3 jewels</h3>
+<p>3 jewels are buddha, dharma, sangha.</p>
+<p>A person with great merit become buddha or cakravartin.</p>
+
+
+<h4>1.1.1. Buddhist</h4>
+<p>Buddhist is a person who practice buddhism.</p>
+<p>Thich Nhat Hanh is buddhist monk.</p>
+
+
+<h5>1.1.1.1. Lama</h5>
+<p>Lama is tibetian buddhist teacher.</p>
+<p>Ole Nydahl is lama.</p>
+<p>Garchen Rinpoche is lama.</p>
+
+
+<h4>1.1.2. Cakravartin</h4>
+<p>Cakravartin is wheel-turning monarch.</p>
+<p>7 treasures of cakravartin are the wheel, the elephant, the horse, the jewel, the woman, the householder, the commander.</p>
+
+
+<h3>1.2. Dukkha</h3>
 <p>Dukkha is all kinds of unpleasent vedana.</p>
 <p>Path leading to cessation of dukkha is noble eightfold path.</p>
 <p>Conditions for occurrence of mental dukkha are mental object, clinging.</p>
 <p>3 types of vedana are pleasent vedana, neutral vedana, unpleasent vedana.</p>
 
 
-<h4>1.1.1. Path</h4>
+<h4>1.2.1. Path</h4>
 <p>Path leading to cessation of dukkha is noble eightfold path.</p>
 <p>Noble eightfold path is right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right samadhi.</p>
 <p>4 stages on path to awakening are sotapanna, sakadagami, anagami, arhat.</p>
-<p>Right speech is no lying, no abusive speech.</p>
-<p>Right samadhi, right immersion, right concentration are synonyms.</p>
+<p>Right speech is no lying, no abusive speech, no backbiting, no talking nonsense.</p>
 <p>Sotapanna is stream-enterer.</p>
 <p>Sakadagami is once-returner.</p>
 <p>Anagami is non-returner.</p>
 
 
-<h5>1.1.1.1. 4 noble truths</h5>
+<h5>1.2.1.1. 4 noble truths</h5>
 <p>4 noble truths are there is dukkha there is origin of dukkha there is cessation of dukkha there is path leading to cessation of dukkha.</p>
 <p>Path leading to cessation of dukkha is noble eightfold path.</p>
 
 
-<h4>1.1.2. 5 aggregates of clinging</h4>
+<h5>1.2.1.2. Prajna</h5>
+<p>Prajna is right view, right thought.</p>
+<p>Prajna is wisdom.</p>
+
+
+<h5>1.2.1.3. Samadhi</h5>
+<p>Samadhi is right samadhi, right mindfulness.</p>
+<p>Right samadhi, right immersion, right concentration are synonyms.</p>
+
+
+<h5>1.2.1.4. Sila</h5>
+<p>Sila is right speech, right action, right livelihood.</p>
+<p>Sila is ethics.</p>
+<p>Right action is no killing, no stealing, no sexual misconduct.</p>
+
+
+<h4>1.2.2. 5 aggregates of clinging</h4>
 <p>5 aggregates of clinging are rupa, vedana, samjna, sankhara, vijnana.</p>
 <p>Rupa is form.</p>
 <p>Conditions for occurrence of mental dukkha are mental object, clinging.</p>
 
-
-<h3>1.2. A person with great merit</h3>
-<p>A person with great merit become buddha or cakravartin.</p>
-<p>Cakravartin is wheel-turning monarch.</p>
-
-
-<h4>1.2.1. Buddhist</h4>
-<p>Buddhist is a person who practice buddhism.</p>
-<p>Thich Nhat Hanh is buddhist monk.</p>
-
-
-<h5>1.2.1.1. Lama</h5>
-<p>Lama is tibetian buddhist teacher.</p>
-<p>Ole Nydahl is lama.</p>
-<p>Garchen Rinpoche is lama.</p>
-
-0:{"buildId":"DgaY-tXEWxfRrFcS83gac","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"iUP1nZkIDQ1aja4n9chq3","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
