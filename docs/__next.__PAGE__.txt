@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-2:Tb29,
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:Tdcc,
 <h1>Buddhism</h1>
 <p>Buddhism is all traditions of transmission, understanding, practice of dharma.</p>
 <p>Schools of buddhism are theravada chan zen.</p>
@@ -58,6 +58,7 @@
 
 <h6>1.1.1.4.1.1. Buddhist</h6>
 <p>Buddhist is a person who practice buddhism.</p>
+<p>Buddhaghosa is buddhist.</p>
 <p>Thich Nhat Hanh is buddhist monk.</p>
 
 
@@ -65,6 +66,28 @@
 <p>Lama is tibetian buddhist teacher.</p>
 <p>Ole Nydahl is lama.</p>
 <p>Garchen Rinpoche is lama.</p>
+
+
+<h6>1.1.1.4.1.1.2. Visuddhimagga</h6>
+<p>Visuddhimagga is path of purification.</p>
+<p>Visuddhimagga is a treatise written by Buddhaghosa.</p>
+
+
+<h6>1.1.1.4.1.1.2.1. Visuddhimaggamahatika</h6>
+<p>Visuddhimaggamahatika is a commentary on Visuddhimagga.</p>
+<p>Visuddhimagganidanakatha is a commentary on Visuddhimagga.</p>
+<p>Paramatthamanjusa is a commentary on Visuddhimagga.</p>
+<p>Atthakatha is commentary on canon.</p>
+
+
+<h6>1.1.1.4.1.1.2.1.1. Tika</h6>
+<p>Tika is commentary on atthakatha.</p>
+<p>Anutika is commentary on tika.</p>
+
+
+<h6>1.1.1.4.1.1.2.1.2. Tipitaka</h6>
+<p>Tipitaka is pali canon.</p>
+<p>Tipitaka is triple basket.</p>
 
 
 <h6>1.1.1.4.1.2. Cakravartin</h6>
@@ -84,5 +107,6 @@
 <p>Upadana is grasping.</p>
 <p>Conditions for occurrence of mental dukkha are mental object, grasping.</p>
 
-0:{"buildId":"jjFiX7AruBqpArBOJ-tWk","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+0:{"buildId":"xPQRBEAUVab_ToCX_sSfq","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
