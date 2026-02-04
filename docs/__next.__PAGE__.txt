@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:Te29,
-<h1>Buddhism</h1>
+2:T1687,
+<h1>Cheat Sheet about Buddhism</h1>
 <p>Buddhism is all traditions of transmission, understanding, practice of dharma.</p>
 <div><p>Schools of buddhism</p> <ol><li>theravada</li> <li>chan</li> <li>zen</li></ol></div>
 <p>Informal practice, daily-life practice are synonyms.</p>
@@ -32,7 +32,13 @@
 
 <h5>1.1.1.1. 4 noble truths</h5>
 <div><p>4 noble truths</p> <ol><li>there is dukkha</li> <li>there is origin of dukkha</li> <li>there is cessation of dukkha</li> <li>there is path leading to cessation of dukkha</li></ol></div>
+<div><p>12 aspects of 4 noble truths</p> <ol><li>"This is the noble truth of suffering."</li> <li>"This noble truth of suffering should be completely understood."</li> <li>"This noble truth of suffering has been completely understood."</li> <li>"This is the noble truth of the origin of suffering."</li> <li>"This noble truth of the origin of suffering should be given up."</li> <li>"This noble truth of the origin of suffering has been given up."</li> <li>"This is the noble truth of the cessation of suffering."</li> <li>"This noble truth of the cessation of suffering should be realized."</li> <li>"This noble truth of the cessation of suffering has been realized."</li> <li>"This is the noble truth of the practice that leads to the cessation of suffering."</li> <li>"This noble truth of the practice that leads to the cessation of suffering should be developed."</li> <li>"This noble truth of the practice that leads to the cessation of suffering has been developed."</li></ol></div>
 <p>Path leading to cessation of dukkha is noble eightfold path.</p>
+
+
+<h6>1.1.1.1.1. Aspects</h6>
+<p>3 aspects of each noble truth are recognition, duty, realization.</p>
+<div><p>12 aspects of 4 noble truths</p> <ol><li>"This is the noble truth of suffering."</li> <li>"This noble truth of suffering should be completely understood."</li> <li>"This noble truth of suffering has been completely understood."</li> <li>"This is the noble truth of the origin of suffering."</li> <li>"This noble truth of the origin of suffering should be given up."</li> <li>"This noble truth of the origin of suffering has been given up."</li> <li>"This is the noble truth of the cessation of suffering."</li> <li>"This noble truth of the cessation of suffering should be realized."</li> <li>"This noble truth of the cessation of suffering has been realized."</li> <li>"This is the noble truth of the practice that leads to the cessation of suffering."</li> <li>"This noble truth of the practice that leads to the cessation of suffering should be developed."</li> <li>"This noble truth of the practice that leads to the cessation of suffering has been developed."</li></ol></div>
 
 
 <h5>1.1.1.2. Prajna</h5>
@@ -54,6 +60,7 @@
 <h6>1.1.1.4.1. Person</h6>
 <p>A person with great merit become buddha or cakravartin.</p>
 <p>3 jewels are buddha, dharma, sangha.</p>
+<p>Buddha Maitreya is a future buddha.</p>
 
 
 <h6>1.1.1.4.1.1. Buddhist</h6>
@@ -107,6 +114,6 @@
 <p>Upadana is grasping.</p>
 <p>Conditions for occurrence of mental dukkha are mental object, grasping.</p>
 
-0:{"buildId":"_pn64avs0_Gs1y4K4QPHk","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"xWUiJ9Vcy8Hrldj6osFB0","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
