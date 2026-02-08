@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
 4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-2:T1f35,
+2:T2225,
 <h1>Cheat Sheet about Buddhism</h1>
 <p>Buddhism is all traditions of transmission, understanding, practice of dhamma.</p>
 <div><p>Schools of buddhism</p> <ol><li>Theravada</li> <li>Chan</li> <li>Zen</li> <li>Nyingma</li> <li>Kadam</li> <li>Sakya</li> <li>Bodong</li> <li>Kagyu</li> <li>Jonang</li> <li>Gelug</li> <li>Rime</li></ol></div>
@@ -40,9 +40,6 @@
 <p>Noble eightfold path is right view, right thought, right speech, right action, right livelihood, right effort, right mindfulness, right samadhi.</p>
 <p>4 stages on path to awakening are sotapanna, sakadagami, anagami, arahant.</p>
 <p>Right action is no killing, no stealing, no sexual misconduct.</p>
-<p>Sotapanna is stream-enterer.</p>
-<p>Sakadagami is once-returner.</p>
-<p>Anagami is non-returner.</p>
 
 
 <h6>1.1.1.1.1.1.1. Panna</h6>
@@ -53,7 +50,7 @@
 <h6>1.1.1.1.1.1.1.1. Tipitaka</h6>
 <p>Tipitaka is pali canon.</p>
 <p>Tipitaka is translated from Pali as triple basket.</p>
-<div><p>Tipitaka</p> <ol><li>Vinayapitaka</li> <li><div><p>Suttapitaka</p> <ol><li>Dighanikaya</li> <li>Majjhimanikaya</li> <li>Samyuttanikaya</li> <li>Anguttaranikaya</li> <li><div><p>Khuddakanikaya</p> <ol><li>Khuddakapatha</li> <li>Dhammapada</li> <li>Udana</li> <li>Itivuttaka</li> <li>Suttanipata</li> <li>Vimanavatthu</li> <li>Petavatthu</li> <li>Theragatha</li> <li>Therigatha</li> <li>Therapadana</li> <li>Theripadana</li> <li>Buddhavamsa</li> <li>Cariyapitaka</li> <li>Jataka</li> <li>Mahaniddesa</li> <li>Culaniddesa</li> <li>Patisambhidamagga</li> <li>Netti</li> <li>Petakopadesa</li> <li>Milindapanha</li></ol></div></li></ol></div></li> <li>Abhidhammapitaka</li></ol></div>
+<div><p>Tipitaka</p> <ol><li>Vinayapitaka</li> <li><div><p>Suttapitaka</p> <ol><li>Dighanikaya</li> <li>Majjhimanikaya</li> <li>Samyuttanikaya</li> <li>Anguttaranikaya</li> <li><div><p>Khuddakanikaya</p> <ol><li>Khuddakapatha</li> <li>Dhammapada</li> <li>Udana</li> <li>Itivuttaka</li> <li>Suttanipata</li> <li>Vimanavatthu</li> <li>Petavatthu</li> <li>Theragatha</li> <li>Therigatha</li> <li>Therapadana</li> <li>Theripadana</li> <li>Buddhavamsa</li> <li>Cariyapitaka</li> <li>Jataka</li> <li>Mahaniddesa</li> <li>Culaniddesa</li> <li>Patisambhidamagga</li> <li>Netti</li> <li>Petakopadesa</li> <li>Milindapanha</li></ol></div></li></ol></div></li> <li><div><p>Abhidhammapitaka</p> <ol><li>Dhammasangani</li> <li>Vibhanga</li> <li>Dhatukatha</li> <li>Puggalapannatti</li> <li>Kathavatthu</li> <li>Yamaka</li> <li>Patthana</li></ol></div></li></ol></div>
 
 
 <h6>1.1.1.1.1.1.1.1.1. Canon</h6>
@@ -70,9 +67,15 @@
 <p>Visuddhimaggamahatika is a commentary on Visuddhimagga.</p>
 <p>Visuddhimagganidanakatha is a commentary on Visuddhimagga.</p>
 <p>Paramatthamanjusa is a commentary on Visuddhimagga.</p>
+<p>Abhidhammatthavibhavinitika is a commentary on Abhidhammattha-sangaha.</p>
 
 
-<h6>1.1.1.1.1.1.1.1.1.2.1. Visuddhimagga</h6>
+<h6>1.1.1.1.1.1.1.1.1.2.1. Abhidhammattha-sangaha</h6>
+<p>Abhidhammattha-sangaha is treatise.</p>
+<p>Abhidhammatthasangahatika is a commentary on Abhidhammattha-sangaha.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.1.2.1.1. Visuddhimagga</h6>
 <p>Visuddhimagga is path of purification.</p>
 <p>Visuddhimagga is a treatise written by Buddhaghosa.</p>
 
@@ -97,6 +100,45 @@
 <p>Abhinna is translated from Pali as direct knowledge, higher knowledge, supernormal knowledge.</p>
 
 
+<h6>1.1.1.1.1.1.1.1.2.3. Srotapanna</h6>
+<p>Srotapanna is translated from Sanskrit as stream-enterer.</p>
+<p>Sotapanna is translated from Pali as stream-enterer.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.2.3.1. 4 stages on path to awakening</h6>
+<p>4 stages on path to awakening are sotapanna, sakadagami, anagami, arahant.</p>
+<p>Sakadagami is once-returner.</p>
+<p>Anagami is non-returner.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.2.3.1.1. Arya</h6>
+<p>Arya is noble.</p>
+<p>Arya is a person who achived any of 4 stages on path to awakening.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.2.3.1.1.1. Person</h6>
+<p>A person with great merit become buddha or cakravartin.</p>
+<p>3 jewels are buddha, dhamma, sangha.</p>
+<p>Buddha Maitreya is a future buddha.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.2.3.1.1.1.1. Buddhist</h6>
+<p>Buddhist is a person who practice buddhism.</p>
+<p>Buddhaghosa is buddhist.</p>
+<p>Thich Nhat Hanh is buddhist monk.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.2.3.1.1.1.1.1. Lama</h6>
+<p>Lama is tibetian buddhist teacher.</p>
+<p>Ole Nydahl is lama.</p>
+<p>Garchen Rinpoche is lama.</p>
+
+
+<h6>1.1.1.1.1.1.1.1.2.3.1.1.1.2. Cakravartin</h6>
+<p>Cakravartin is wheel-turning monarch.</p>
+<p>7 treasures of cakravartin are the wheel, the elephant, the horse, the jewel, the woman, the householder, the commander.</p>
+
+
 <h6>1.1.1.1.1.1.2. Samadhi</h6>
 <p>Samadhi is right effort, right mindfulness, right samadhi.</p>
 <p>Samadhi is immersion, concentration.</p>
@@ -114,39 +156,11 @@
 <div><p>12 aspects of 4 noble truths</p> <ol><li>"This is the noble truth of suffering."</li> <li>"This noble truth of suffering should be completely understood."</li> <li>"This noble truth of suffering has been completely understood."</li> <li>"This is the noble truth of the origin of suffering."</li> <li>"This noble truth of the origin of suffering should be given up."</li> <li>"This noble truth of the origin of suffering has been given up."</li> <li>"This is the noble truth of the cessation of suffering."</li> <li>"This noble truth of the cessation of suffering should be realized."</li> <li>"This noble truth of the cessation of suffering has been realized."</li> <li>"This is the noble truth of the practice that leads to the cessation of suffering."</li> <li>"This noble truth of the practice that leads to the cessation of suffering should be developed."</li> <li>"This noble truth of the practice that leads to the cessation of suffering has been developed."</li></ol></div>
 
 
-<h6>1.1.1.1.1.1.4. Arya</h6>
-<p>Arya is noble.</p>
-<p>Arya is a person who achived any of 4 stages on path to awakening.</p>
-
-
-<h6>1.1.1.1.1.1.4.1. Person</h6>
-<p>A person with great merit become buddha or cakravartin.</p>
-<p>3 jewels are buddha, dhamma, sangha.</p>
-<p>Buddha Maitreya is a future buddha.</p>
-
-
-<h6>1.1.1.1.1.1.4.1.1. Buddhist</h6>
-<p>Buddhist is a person who practice buddhism.</p>
-<p>Buddhaghosa is buddhist.</p>
-<p>Thich Nhat Hanh is buddhist monk.</p>
-
-
-<h6>1.1.1.1.1.1.4.1.1.1. Lama</h6>
-<p>Lama is tibetian buddhist teacher.</p>
-<p>Ole Nydahl is lama.</p>
-<p>Garchen Rinpoche is lama.</p>
-
-
-<h6>1.1.1.1.1.1.4.1.2. Cakravartin</h6>
-<p>Cakravartin is wheel-turning monarch.</p>
-<p>7 treasures of cakravartin are the wheel, the elephant, the horse, the jewel, the woman, the householder, the commander.</p>
-
-
 <h5>1.1.1.2. 5 aggregates of grasping</h5>
 <p>5 aggregates of grasping are rupa, vedana, samjna, sankhara, vijnana.</p>
 <p>Conditions for occurrence of mental dukkha are mental object, grasping.</p>
 <p>Upadana is translated from Pali and Sanskrit as grasping, clinging, attachment, fuel.</p>
 
-0:{"buildId":"fXEFK3VUGR_jVraqauuEq","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"nLKwRirFgw_w-ylVpyKKv","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
