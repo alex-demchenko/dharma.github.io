@@ -161,6 +161,6 @@
 <p>Conditions for occurrence of mental dukkha are mental object, grasping.</p>
 <p>Upadana is translated from Pali and Sanskrit as grasping, clinging, attachment, fuel.</p>
 
-0:{"buildId":"nLKwRirFgw_w-ylVpyKKv","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
+0:{"buildId":"lP5znN1SnckZhOhvJ_njk","rsc":["$","$1","c",{"children":[["$","div",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}],null,"$L3"]}],"loading":null,"isPartial":false}
 3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
 6:null
