@@ -7,11 +7,14 @@ export default function Home() {
   return (
     <div>
       <div className="p-4 border border-gray-200 rounded-lg bg-yellow-100">
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-4">
           <CircleAlert />
-          <div>
-            The algorithm of content arrangement is in development and will be
-            improved.
+          <div className="flex flex-col gap-2">
+            <div>Content on this page is added every day.</div>
+            <div>
+              The algorithm of content arrangement is in development and will be
+              improved.
+            </div>
           </div>
         </div>
       </div>
